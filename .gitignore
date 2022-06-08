@@ -17,6 +17,7 @@
 .project
 .scm-links
 .vscode/
+.vs/
 .cache/
 ChangeLog
 Makefile
