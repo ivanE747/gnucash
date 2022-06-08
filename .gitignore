@@ -200,3 +200,5 @@ xcuserdata/
 messages.mo
 /.settings/
 /build/
+/out/
+CMakeSettings.json
